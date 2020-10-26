@@ -1,0 +1,322 @@
+[
+    { 
+        "id": "1",
+        "name": "USA",
+        "parent_id": "0"
+    },
+    {
+        "id": "2",
+        "name": "Canada",
+        "parent_id": "0"
+    },
+    {
+        "id": "3",
+        "name": "Australia",
+        "parent_id": "0"
+    },
+    {
+        "id": "4",
+        "name": "India",
+        "parent_id": "0"
+    },
+    {
+        "id": "5",
+        "name": "China",
+        "parent_id": "0"
+    },
+    {
+        "id": "6",
+        "name": "South Africa",
+        "parent_id": "0"
+    },
+    { 
+        "id": "7",
+        "name": "New York",
+        "parent_id": "1"
+    },
+    {
+        "id": "8",
+        "name": "Alabama",
+        "parent_id": "1"
+    },
+    {
+        "id": "9",
+        "name": "California",
+        "parent_id": "1"
+    },
+    {
+        "id": "10",
+        "name": "Texas",
+        "parent_id": "1"
+    },
+    {
+        "id": "11",
+        "name": "Alaska",
+        "parent_id": "1"
+    },
+    {
+        "id": "12",
+        "name": "Arizona",
+        "parent_id": "1"
+    },
+    {
+        "id": "13",
+        "name": "Washington",
+        "parent_id": "1"
+    },
+    {
+        "id": "14",
+        "name": "Massachusets",
+        "parent_id": "1"
+    },
+    {
+        "id": "15",
+        "name": "Michigan",
+        "parent_id": "1"
+    },
+    {
+        "id": "16",
+        "name": "Pennsylvania",
+        "parent_id": "1"
+    },
+    { 
+        "id": "17",
+        "name": "Ontario",
+        "parent_id": "2"
+    },
+    {
+        "id": "18",
+        "name": "British Columbia",
+        "parent_id": "2"
+    },
+    {
+        "id": "19",
+        "name": "Alberta",
+        "parent_id": "2"
+    },
+    {
+        "id": "20",
+        "name": "Toranto",
+        "parent_id": "2"
+    },
+    {
+        "id": "21",
+        "name": "Ottawa",
+        "parent_id": "2"
+    },
+    {
+        "id": "22",
+        "name": "Montreal",
+        "parent_id": "2"
+    },
+    {
+        "id": "23",
+        "name": "Vancouver",
+        "parent_id": "2"
+    },
+    {
+        "id": "24",
+        "name": "Regina",
+        "parent_id": "2"
+    },
+    {
+        "id": "25",
+        "name": "Saint John",
+        "parent_id": "2"
+    },
+    {
+        "id": "26",
+        "name": "Windsor",
+        "parent_id": "2"
+    },
+    { 
+        "id": "27",
+        "name": "Victoria",
+        "parent_id": "3"
+    },
+    {
+        "id": "28",
+        "name": "Queensland",
+        "parent_id": "3"
+    },
+    {
+        "id": "29",
+        "name": "New South Wales",
+        "parent_id": "3"
+    },
+    {
+        "id": "30",
+        "name": "Tasmania",
+        "parent_id": "3"
+    },
+    {
+        "id": "31",
+        "name": "Northern Territory",
+        "parent_id": "3"
+    },
+    {
+        "id": "32",
+        "name": "Western Australia",
+        "parent_id": "3"
+    },
+    {
+        "id": "33",
+        "name": "South Australia",
+        "parent_id": "3"
+    },
+    {
+        "id": "34",
+        "name": "Australian Capital Territory",
+        "parent_id": "3"
+    },
+    { 
+        "id": "35",
+        "name": "Maharashtra",
+        "parent_id": "4"
+    },
+    {
+        "id": "36",
+        "name": "Rajasthan",
+        "parent_id": "4"
+    },
+    {
+        "id": "37",
+        "name": "Kerala",
+        "parent_id": "4"
+    },
+    {
+        "id": "38",
+        "name": "Gujurat",
+        "parent_id": "4"
+    },
+    {
+        "id": "39",
+        "name": "Kashmir",
+        "parent_id": "4"
+    },
+    {
+        "id": "40",
+        "name": "Himachal Pradesh",
+        "parent_id": "4"
+    },
+    {
+        "id": "41",
+        "name": "Madhya Pradesh",
+        "parent_id": "4"
+    },
+    {
+        "id": "42",
+        "name": "Tamil Nadu",
+        "parent_id": "4"
+    },
+    {
+        "id": "43",
+        "name": "Assam",
+        "parent_id": "4"
+    },
+    {
+        "id": "44",
+        "name": "Meghalaya",
+        "parent_id": "4"
+    },
+    { 
+        "id": "45",
+        "name": "Hainan",
+        "parent_id": "5"
+    },
+    {
+        "id": "46",
+        "name": "Shanghai",
+        "parent_id": "5"
+    },
+    {
+        "id": "47",
+        "name": "Beijing",
+        "parent_id": "5"
+    },
+    {
+        "id": "48",
+        "name": "Tianjin",
+        "parent_id": "5"
+    },
+    {
+        "id": "49",
+        "name": "Jilin",
+        "parent_id": "5"
+    },
+    {
+        "id": "50",
+        "name": "Gansu",
+        "parent_id": "5"
+    },
+    {
+        "id": "51",
+        "name": "Qinghai",
+        "parent_id": "5"
+    },
+    {
+        "id": "52",
+        "name": "Shanxi",
+        "parent_id": "5"
+    },
+    {
+        "id": "53",
+        "name": "Hebei",
+        "parent_id": "5"
+    },
+    {
+        "id": "54",
+        "name": "Henan",
+        "parent_id": "5"
+    },
+    {
+        "id": "55",
+        "name": "Western Cape",
+        "parent_id": "6"
+    },
+    {
+        "id": "56",
+        "name": "Eastern Cape",
+        "parent_id": "6"
+    },
+    {
+        "id": "57",
+        "name": "Nothern Cape",
+        "parent_id": "6"
+    },
+    {
+        "id": "58",
+        "name": "North West",
+        "parent_id": "6"
+    },
+    {
+        "id": "59",
+        "name": "Free State",
+        "parent_id": "6"
+    },
+    {
+        "id": "60",
+        "name": "Kwazulu",
+        "parent_id": "6"
+    },
+    {
+        "id": "61",
+        "name": "Natal",
+        "parent_id": "6"
+    },
+    {
+        "id": "62",
+        "name": "Gauteng",
+        "parent_id": "6"
+    },
+    {
+        "id": "63",
+        "name": "Limpopo",
+        "parent_id": "6"
+    },
+    {
+        "id": "64",
+        "name": "Mpumalanga",
+        "parent_id": "6"
+    }
+]
